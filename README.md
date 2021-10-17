@@ -1,2 +1,3 @@
 # Connect_Writer
-impan dua file untuk bisa visit post dari rekan rekan Local Guides
+Simpan dua file untuk bisa visit post dari rekan rekan Local Guides
+Sehingga meningkatkan produktivitas menulis di Connect
