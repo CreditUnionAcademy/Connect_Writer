@@ -4,3 +4,4 @@ Github
 Wordpress
 Isi tulisan di Connect Writer
 File Visit HTML diperbaharuinya terus yang di GITHUB
+Edit Album di Connect per topic, sehingga bisa di insert disetiap Comment atau reply
